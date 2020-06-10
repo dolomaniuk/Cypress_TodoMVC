@@ -1,3 +1,6 @@
 npm init
 npm i cypress@3 --save-dev
 npx cypress open
+
+npm i @applitools/eyes-cypress@3
+npx eyes-setup
